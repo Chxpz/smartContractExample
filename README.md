@@ -1,4 +1,4 @@
-# smartContractExemple
+# smartContractExample
 This is an example of a Smart Contract used in Solidity Training Provided by me for Corporate Training.
 
 This contracts introduces concepts of the Solidity bases for:
